@@ -6,11 +6,11 @@
 AWS_IOT hornbill;
 
 // Define the Wifi and AWS parameters
-char WIFI_SSID[]="402";
-char WIFI_PASSWORD[]="03543980486";
-char HOST_ADDRESS[]="a1nw55a6za87an-ats.iot.us-west-2.amazonaws.com";
-char CLIENT_ID[]= "15b69a684f7d438595047934dd31d003";
-char TOPIC_NAME[]= "PubSub/topic1";
+char WIFI_SSID[]="...";
+char WIFI_PASSWORD[]="....";
+char HOST_ADDRESS[]="...";
+char CLIENT_ID[]= "...";
+char TOPIC_NAME[]= "...";
 
 //Initial State
 int status = WL_IDLE_STATUS;
